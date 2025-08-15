@@ -1,2 +1,2 @@
 # hello-world
-Learn how to use Git &amp; Github Flow
+I'm a newbie in the world of coding and learning how to use Git & Github 👍
